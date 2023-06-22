@@ -4,6 +4,8 @@ JavaScript Challenge: Password Generator
 
 ## GitHub Pages
 
+https://manc1n1.github.io/password-generator
+
 ## Description
 
 -   AS AN employee with access to sensitive data
